@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+pytest-cache-files-*/
+data/processed/*
+reports/data_mining/*
+!data/processed/.gitkeep
+!reports/data_mining/.gitkeep
